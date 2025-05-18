@@ -13,3 +13,23 @@ Para el análisis es necesario destacar:
 
   
 </p>
+
+<h2>    El propósito del análisis realizado </h2>
+<p>
+  El presente documente tiene por objetivo evaluar los conocimientos adquiridos en el uso de Phyton para data science. Con ello se busca que el aprendiz desarrolle 
+  habilidades y destrezas en el uso de Phyton y el uso de librerias de Panda, para extraer los datos de una tabla y el uso de gráficos como  Matploglib. 
+
+  
+</p>
+
+<H2>La estructura del proyecto y organización de los archivos</H2>
+   
+<p>
+  El documento fue realizado en notebook de google Colab, donde en primeria instancia se importan las librerias Panda y Matploglib, posteriormente se desarrolla el código, aplicando funciones if else, bucles aprendidos en las aulas virtuales del curso. 
+  Por otra parte cada item esta acompañado de las graficas que describen el comportamiento de los datos. 
+</p>   
+
+<h2>   Ejemplos de gráficos e insights obtenidos </h2> 
+
+<h2>  Instrucciones para ejecutar el notebook </h2>
+
